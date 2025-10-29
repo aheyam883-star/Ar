@@ -1,0 +1,14 @@
+my-professional-app/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   └── server.js
+├── frontend/
+│   ├── src/
+│   │   ├── screens/
+│   │   ├── components/
+│   │   ├── navigation/
+│   │   └── styles/
+│   └── App.js
+└── README.md
